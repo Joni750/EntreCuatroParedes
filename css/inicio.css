@@ -685,25 +685,8 @@ header.abajo span {
         padding: 20px;
     }
 
-    .container-footer{
-        background-color: #E3413C;
-        padding: 10rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-    }
-
     .image-footer img{
         width: 600px;
-    }
-    
-    .content-footer{
-        max-width: 50%;
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        justify-content: space-between;
-        text-align: left;
     }
 
     .content-footer p{
@@ -779,7 +762,6 @@ header.abajo span {
     .seccion3-content{
         padding: 10rem 15rem 10rem 10rem;
         height: 20vh;
-        transform: scale(1.2);    
     }
 
     .seccion3-img img{
@@ -788,22 +770,9 @@ header.abajo span {
     }
 
     /* FOOTER */
-
-    .content-footer button{
-        font-size: 2em;
-        padding: 20px;
-    }
     
     .image-footer img{
         width: 700px;
-    }
-
-    .content-footer p{
-        margin-bottom: 42px;
-    }
-
-    .content-footer button{
-        font-size: 2em;
     }
 
 }
